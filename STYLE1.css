@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 75px;
+  padding: 0;
+  background-image: url('idology-background.jpg'); 
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  margin: 20px;
+}
+
+a:hover {
+  color: #ccc;
+}
+
+.center {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  color: #fff;
+  font-size: 48px;
+  text-shadow: 2px 2px 5px #000;
+  
+}
+
+h2 {
+  color: #fff;
+  font-size: 24px;
+text-shadow: 2px 2px 5px #000;
+}
+
+marquee {
+  color: #fff;
+  font-size: 24px;
+  text-shadow: 2px 2px 5px #000;
+}
+
+.buttons {
+  margin-top: 40px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+.btn {
+  background-color: #008CBA;
+}
+
+.btn:hover {
+  background-color: #00738A;
+}
